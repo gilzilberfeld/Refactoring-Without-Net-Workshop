@@ -16,20 +16,20 @@ items = [
 ]
 
 def print_items():
-    item_log = ("name, sellIn, quality\n")
+    item_log = "name, sellIn, quality\n"
     for item in items:
         item_log += ("%s\n" % item)
-    item_log += ("\n")
+    item_log += "\n"
 
     return item_log
 
 
 class GildedRoseApprovals(unittest.TestCase):
     def test_items_before_and_after_quality_ipdate(self):
-        log = "Before Update\n";
+        log = "Before Update\n"
         log += print_items()
         GildedRose(items).update_quality()
-        log += "After Update\n";
+        log += "After Update\n"
         log += print_items()
         verify(log)
 
