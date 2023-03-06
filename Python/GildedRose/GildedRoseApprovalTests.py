@@ -2,7 +2,7 @@ import unittest
 
 from approvaltests.approvals import verify
 from GildedRose.GildedRose import *
-from Uncouchables.Item import *
+from GildedRose.Uncouchables.Item import *
 
 items = [
     Item(name="+5 Dexterity Vest", sell_in=10, quality=20),
@@ -25,7 +25,7 @@ def print_items():
 
 
 class GildedRoseApprovals(unittest.TestCase):
-    def test_items_before_and_after_quality_ipdate(self):
+    def test_items_before_and_after_quality_update(self):
         log = "Before Update\n"
         log += print_items()
         GildedRose(items).update_quality()
