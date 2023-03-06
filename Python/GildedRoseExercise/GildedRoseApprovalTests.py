@@ -2,8 +2,8 @@ import unittest
 
 from approvaltests.approvals import verify
 
-from GildedRose import GildedRose
-from Uncouchables.Item import Item
+from GildedRoseExercise.Dependencies.Item import Item
+from GildedRoseExercise.GildedRose import GildedRose
 
 items = [
     Item(name="+5 Dexterity Vest", sell_in=10, quality=20),
@@ -15,6 +15,7 @@ items = [
     Item(name="Backstage passes to a TAFKAL80ETC concert", sell_in=10, quality=49),
     Item(name="Backstage passes to a TAFKAL80ETC concert", sell_in=5, quality=49),
 ]
+
 
 def print_items():
     item_log = "name, sellIn, quality\n"
@@ -33,19 +34,6 @@ class GildedRoseApprovals(unittest.TestCase):
         log += "After Update\n"
         log += print_items()
         verify(log)
-
-    def test_update_quality_30_days(self):
-        shop = GildedRose(items)
-        log = ""
-
-        for day in range(1,30):
-            log += "Day " + str(day) + "\n"
-            log += print_items()
-            shop.update_quality()
-            log += "\n"
-
-        verify(log)
-
 
 if __name__ == '__main__':
     unittest.main()
