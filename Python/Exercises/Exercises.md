@@ -18,3 +18,8 @@ Our new notification service lets shoppers know that items were updated. When St
 Update the UpdateQuality to send the message if it was updated. Create a mock notification service that logs the sent messages and add a verification in the tests for that log.
 	
 
+Hints (examples):
+Extract methods
+Guard statements
+Invert ifs
+Duplicate and insert conditions
