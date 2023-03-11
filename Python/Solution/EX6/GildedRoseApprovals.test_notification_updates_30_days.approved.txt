@@ -1,0 +1,261 @@
+Elixir Updated - Quality: 19, SellIn: 9
+Aged Brie Updated - Quality: 1, SellIn: 1
+Elixir Updated - Quality: 6, SellIn: 4
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 21, SellIn: 14
+Backstage Passes Updated - Quality: 50, SellIn: 9
+Backstage Passes Updated - Quality: 50, SellIn: 4
+Conjured Updated - Quality: 83, SellIn: 9
+Elixir Updated - Quality: 18, SellIn: 8
+Aged Brie Updated - Quality: 2, SellIn: 0
+Elixir Updated - Quality: 5, SellIn: 3
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 22, SellIn: 13
+Backstage Passes Updated - Quality: 50, SellIn: 8
+Backstage Passes Updated - Quality: 50, SellIn: 3
+Conjured Updated - Quality: 81, SellIn: 8
+Elixir Updated - Quality: 17, SellIn: 7
+Aged Brie Updated - Quality: 4, SellIn: -1
+Elixir Updated - Quality: 4, SellIn: 2
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 23, SellIn: 12
+Backstage Passes Updated - Quality: 50, SellIn: 7
+Backstage Passes Updated - Quality: 50, SellIn: 2
+Conjured Updated - Quality: 79, SellIn: 7
+Elixir Updated - Quality: 16, SellIn: 6
+Aged Brie Updated - Quality: 6, SellIn: -2
+Elixir Updated - Quality: 3, SellIn: 1
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 24, SellIn: 11
+Backstage Passes Updated - Quality: 50, SellIn: 6
+Backstage Passes Updated - Quality: 50, SellIn: 1
+Conjured Updated - Quality: 77, SellIn: 6
+Elixir Updated - Quality: 15, SellIn: 5
+Aged Brie Updated - Quality: 8, SellIn: -3
+Elixir Updated - Quality: 2, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 25, SellIn: 10
+Backstage Passes Updated - Quality: 50, SellIn: 5
+Backstage Passes Updated - Quality: 50, SellIn: 0
+Conjured Updated - Quality: 75, SellIn: 5
+Elixir Updated - Quality: 14, SellIn: 4
+Aged Brie Updated - Quality: 10, SellIn: -4
+Elixir Updated - Quality: 0, SellIn: -1
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 27, SellIn: 9
+Backstage Passes Updated - Quality: 50, SellIn: 4
+Backstage Passes Updated - Quality: 0, SellIn: -1
+Conjured Updated - Quality: 73, SellIn: 4
+Elixir Updated - Quality: 13, SellIn: 3
+Aged Brie Updated - Quality: 12, SellIn: -5
+Elixir Updated - Quality: 0, SellIn: -2
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 29, SellIn: 8
+Backstage Passes Updated - Quality: 50, SellIn: 3
+Backstage Passes Updated - Quality: 0, SellIn: -2
+Conjured Updated - Quality: 71, SellIn: 3
+Elixir Updated - Quality: 12, SellIn: 2
+Aged Brie Updated - Quality: 14, SellIn: -6
+Elixir Updated - Quality: 0, SellIn: -3
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 31, SellIn: 7
+Backstage Passes Updated - Quality: 50, SellIn: 2
+Backstage Passes Updated - Quality: 0, SellIn: -3
+Conjured Updated - Quality: 69, SellIn: 2
+Elixir Updated - Quality: 11, SellIn: 1
+Aged Brie Updated - Quality: 16, SellIn: -7
+Elixir Updated - Quality: 0, SellIn: -4
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 33, SellIn: 6
+Backstage Passes Updated - Quality: 50, SellIn: 1
+Backstage Passes Updated - Quality: 0, SellIn: -4
+Conjured Updated - Quality: 67, SellIn: 1
+Elixir Updated - Quality: 10, SellIn: 0
+Aged Brie Updated - Quality: 18, SellIn: -8
+Elixir Updated - Quality: 0, SellIn: -5
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 35, SellIn: 5
+Backstage Passes Updated - Quality: 50, SellIn: 0
+Backstage Passes Updated - Quality: 0, SellIn: -5
+Conjured Updated - Quality: 65, SellIn: 0
+Elixir Updated - Quality: 8, SellIn: -1
+Aged Brie Updated - Quality: 20, SellIn: -9
+Elixir Updated - Quality: 0, SellIn: -6
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 38, SellIn: 4
+Backstage Passes Updated - Quality: 0, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -6
+Conjured Updated - Quality: 63, SellIn: -1
+Elixir Updated - Quality: 6, SellIn: -2
+Aged Brie Updated - Quality: 22, SellIn: -10
+Elixir Updated - Quality: 0, SellIn: -7
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 41, SellIn: 3
+Backstage Passes Updated - Quality: 0, SellIn: -2
+Backstage Passes Updated - Quality: 0, SellIn: -7
+Conjured Updated - Quality: 61, SellIn: -2
+Elixir Updated - Quality: 4, SellIn: -3
+Aged Brie Updated - Quality: 24, SellIn: -11
+Elixir Updated - Quality: 0, SellIn: -8
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 44, SellIn: 2
+Backstage Passes Updated - Quality: 0, SellIn: -3
+Backstage Passes Updated - Quality: 0, SellIn: -8
+Conjured Updated - Quality: 59, SellIn: -3
+Elixir Updated - Quality: 2, SellIn: -4
+Aged Brie Updated - Quality: 26, SellIn: -12
+Elixir Updated - Quality: 0, SellIn: -9
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 47, SellIn: 1
+Backstage Passes Updated - Quality: 0, SellIn: -4
+Backstage Passes Updated - Quality: 0, SellIn: -9
+Conjured Updated - Quality: 57, SellIn: -4
+Elixir Updated - Quality: 0, SellIn: -5
+Aged Brie Updated - Quality: 28, SellIn: -13
+Elixir Updated - Quality: 0, SellIn: -10
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 50, SellIn: 0
+Backstage Passes Updated - Quality: 0, SellIn: -5
+Backstage Passes Updated - Quality: 0, SellIn: -10
+Conjured Updated - Quality: 55, SellIn: -5
+Elixir Updated - Quality: 0, SellIn: -6
+Aged Brie Updated - Quality: 30, SellIn: -14
+Elixir Updated - Quality: 0, SellIn: -11
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -6
+Backstage Passes Updated - Quality: 0, SellIn: -11
+Conjured Updated - Quality: 53, SellIn: -6
+Elixir Updated - Quality: 0, SellIn: -7
+Aged Brie Updated - Quality: 32, SellIn: -15
+Elixir Updated - Quality: 0, SellIn: -12
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -2
+Backstage Passes Updated - Quality: 0, SellIn: -7
+Backstage Passes Updated - Quality: 0, SellIn: -12
+Conjured Updated - Quality: 51, SellIn: -7
+Elixir Updated - Quality: 0, SellIn: -8
+Aged Brie Updated - Quality: 34, SellIn: -16
+Elixir Updated - Quality: 0, SellIn: -13
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -3
+Backstage Passes Updated - Quality: 0, SellIn: -8
+Backstage Passes Updated - Quality: 0, SellIn: -13
+Conjured Updated - Quality: 49, SellIn: -8
+Elixir Updated - Quality: 0, SellIn: -9
+Aged Brie Updated - Quality: 36, SellIn: -17
+Elixir Updated - Quality: 0, SellIn: -14
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -4
+Backstage Passes Updated - Quality: 0, SellIn: -9
+Backstage Passes Updated - Quality: 0, SellIn: -14
+Conjured Updated - Quality: 47, SellIn: -9
+Elixir Updated - Quality: 0, SellIn: -10
+Aged Brie Updated - Quality: 38, SellIn: -18
+Elixir Updated - Quality: 0, SellIn: -15
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -5
+Backstage Passes Updated - Quality: 0, SellIn: -10
+Backstage Passes Updated - Quality: 0, SellIn: -15
+Conjured Updated - Quality: 45, SellIn: -10
+Elixir Updated - Quality: 0, SellIn: -11
+Aged Brie Updated - Quality: 40, SellIn: -19
+Elixir Updated - Quality: 0, SellIn: -16
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -6
+Backstage Passes Updated - Quality: 0, SellIn: -11
+Backstage Passes Updated - Quality: 0, SellIn: -16
+Conjured Updated - Quality: 43, SellIn: -11
+Elixir Updated - Quality: 0, SellIn: -12
+Aged Brie Updated - Quality: 42, SellIn: -20
+Elixir Updated - Quality: 0, SellIn: -17
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -7
+Backstage Passes Updated - Quality: 0, SellIn: -12
+Backstage Passes Updated - Quality: 0, SellIn: -17
+Conjured Updated - Quality: 41, SellIn: -12
+Elixir Updated - Quality: 0, SellIn: -13
+Aged Brie Updated - Quality: 44, SellIn: -21
+Elixir Updated - Quality: 0, SellIn: -18
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -8
+Backstage Passes Updated - Quality: 0, SellIn: -13
+Backstage Passes Updated - Quality: 0, SellIn: -18
+Conjured Updated - Quality: 39, SellIn: -13
+Elixir Updated - Quality: 0, SellIn: -14
+Aged Brie Updated - Quality: 46, SellIn: -22
+Elixir Updated - Quality: 0, SellIn: -19
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -9
+Backstage Passes Updated - Quality: 0, SellIn: -14
+Backstage Passes Updated - Quality: 0, SellIn: -19
+Conjured Updated - Quality: 37, SellIn: -14
+Elixir Updated - Quality: 0, SellIn: -15
+Aged Brie Updated - Quality: 48, SellIn: -23
+Elixir Updated - Quality: 0, SellIn: -20
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -10
+Backstage Passes Updated - Quality: 0, SellIn: -15
+Backstage Passes Updated - Quality: 0, SellIn: -20
+Conjured Updated - Quality: 35, SellIn: -15
+Elixir Updated - Quality: 0, SellIn: -16
+Aged Brie Updated - Quality: 50, SellIn: -24
+Elixir Updated - Quality: 0, SellIn: -21
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -11
+Backstage Passes Updated - Quality: 0, SellIn: -16
+Backstage Passes Updated - Quality: 0, SellIn: -21
+Conjured Updated - Quality: 33, SellIn: -16
+Elixir Updated - Quality: 0, SellIn: -17
+Aged Brie Updated - Quality: 50, SellIn: -25
+Elixir Updated - Quality: 0, SellIn: -22
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -12
+Backstage Passes Updated - Quality: 0, SellIn: -17
+Backstage Passes Updated - Quality: 0, SellIn: -22
+Conjured Updated - Quality: 31, SellIn: -17
+Elixir Updated - Quality: 0, SellIn: -18
+Aged Brie Updated - Quality: 50, SellIn: -26
+Elixir Updated - Quality: 0, SellIn: -23
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -13
+Backstage Passes Updated - Quality: 0, SellIn: -18
+Backstage Passes Updated - Quality: 0, SellIn: -23
+Conjured Updated - Quality: 29, SellIn: -18
+Elixir Updated - Quality: 0, SellIn: -19
+Aged Brie Updated - Quality: 50, SellIn: -27
+Elixir Updated - Quality: 0, SellIn: -24
+Sulfuras Updated - Quality: 80, SellIn: 0
+Sulfuras Updated - Quality: 80, SellIn: -1
+Backstage Passes Updated - Quality: 0, SellIn: -14
+Backstage Passes Updated - Quality: 0, SellIn: -19
+Backstage Passes Updated - Quality: 0, SellIn: -24
+Conjured Updated - Quality: 27, SellIn: -19

@@ -2,8 +2,9 @@ import unittest
 
 from approvaltests.approvals import verify
 
-from Solution.EX5.GildedRose import GildedRose
-from Solution.EX5.Item import Item
+from Solution.EX6.GildedRose import GildedRose
+from Solution.EX6.Item import Item
+from Solution.EX6.NotificationService import NotificationService
 
 items = [
     Item(name="+5 Dexterity Vest", sell_in=10, quality=20),
@@ -27,11 +28,22 @@ def print_items():
     return item_log
 
 
+class MockNotifier(NotificationService):
+
+    def __init__(self):
+        self.log = ""
+
+    def notify_town_crier(self, message):
+        self.log += message
+        self.log += "\n"
+
+
+
 class GildedRoseApprovals(unittest.TestCase):
 
     def test_update_quality_30_days(self):
-        shop = GildedRose(items)
         log = ""
+        shop = GildedRose(items, MockNotifier())
 
         for day in range(1, 30):
             log += "Day " + str(day) + "\n"
@@ -41,6 +53,14 @@ class GildedRoseApprovals(unittest.TestCase):
 
         verify(log)
 
+    def test_notification_updates_30_days(self):
+        notifier = MockNotifier()
+        shop = GildedRose(items, notifier)
+
+        for day in range(1, 30):
+            shop.update_quality()
+
+        verify(notifier.log)
 
 if __name__ == '__main__':
     unittest.main()

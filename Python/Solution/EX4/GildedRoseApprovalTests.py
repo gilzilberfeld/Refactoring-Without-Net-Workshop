@@ -27,13 +27,6 @@ def print_items():
 
 
 class GildedRoseApprovals(unittest.TestCase):
-    def test_items_before_and_after_quality_update(self):
-        log = "Before Update\n"
-        log += print_items()
-        GildedRose(items).update_quality()
-        log += "After Update\n"
-        log += print_items()
-        verify(log)
 
     def test_update_quality_30_days(self):
         shop = GildedRose(items)
