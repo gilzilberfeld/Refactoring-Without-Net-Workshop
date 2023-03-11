@@ -21,9 +21,3 @@ We have recently signed a supplier of "Conjured" items. This requires AN UPDATE 
 Our new notification service lets shoppers know that items were updated. When StoredItems are updated they can leave a message to be sent to the town crier.
 Update the UpdateQuality to send the message if it was updated. Create a mock notification service that logs the sent messages and add a verification in the tests for that log.
 	
-
-Examples:
-Extract methods
-Guard statements
-Invert ifs
-Duplicate and insert conditions
