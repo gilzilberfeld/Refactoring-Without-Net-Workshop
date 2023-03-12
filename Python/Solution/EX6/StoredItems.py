@@ -6,7 +6,6 @@ class StoredItem(ABC):
     def __init__(self, item):
         self.item = item
         self.message = ""
-        self.name = ""
 
     @abstractmethod
     def update(self):
@@ -22,13 +21,10 @@ class StoredItem(ABC):
         self.item.quality = self.item.quality - 1
 
     def update_message(self):
-        self.message = "{0} Updated - Quality: {1}, SellIn: {2}".format(self.name, self.item.quality, self.item.sell_in)
+        self.message = "{0} Updated - Quality: {1}, SellIn: {2}".format(self.item.name, self.item.quality, self.item.sell_in)
 
 
 class DexterityOrElixir(StoredItem):
-    def __init__(self, item):
-        super().__init__(item)
-        self.name = "Elixir"
 
     def update(self):
         if self.item.quality > 0:
@@ -41,9 +37,6 @@ class DexterityOrElixir(StoredItem):
 
 
 class Backstage(StoredItem):
-    def __init__(self, item):
-        super().__init__(item)
-        self.name = "Backstage Passes"
 
     def update(self):
         if self.item.quality < 50:
@@ -60,9 +53,6 @@ class Backstage(StoredItem):
 
 
 class AgedBrie(StoredItem):
-    def __init__(self, item):
-        super().__init__(item)
-        self.name = "Aged Brie"
 
     def update(self):
         if self.item.quality < 50:
@@ -75,22 +65,18 @@ class AgedBrie(StoredItem):
 
 
 class Sulfuras(StoredItem):
-    def __init__(self, item):
-        super().__init__(item)
-        self.name = "Sulfuras"
 
     def update(self):
         self.update_message()
 
 
 class Conjured(StoredItem):
-    def __init__(self, item):
-        super().__init__(item)
-        self.name = "Conjured"
 
     def update(self):
         if self.item.quality > 0:
             self.decrease_quality()
             self.decrease_quality()
         self.decrease_sell_in()
+        # if self.item.sell_in < 0:
+        #     self.item.quality = 0
         self.update_message()

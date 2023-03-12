@@ -64,3 +64,5 @@ class Conjured(StoredItem):
             self.decrease_quality()
             self.decrease_quality()
         self.decrease_sell_in()
+        if self.item.sell_in < 0:
+            self.item.quality = 0
