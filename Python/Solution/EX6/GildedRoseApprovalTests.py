@@ -15,7 +15,7 @@ items = [
     Item(name="Backstage passes to a TAFKAL80ETC concert", sell_in=15, quality=20),
     Item(name="Backstage passes to a TAFKAL80ETC concert", sell_in=10, quality=49),
     Item(name="Backstage passes to a TAFKAL80ETC concert", sell_in=5, quality=49),
-    Item(name="Conjured", sell_in=10, quality=85)
+    Item(name="Conjured demon holding vessel", sell_in=10, quality=85)
 ]
 
 

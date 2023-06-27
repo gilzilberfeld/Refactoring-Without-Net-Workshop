@@ -8,7 +8,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 15, 20
 Backstage passes to a TAFKAL80ETC concert, 10, 49
 Backstage passes to a TAFKAL80ETC concert, 5, 49
-Conjured, 10, 85
+Conjured demon holding vessel, 10, 85
 
 
 Day 2
@@ -21,7 +21,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 14, 21
 Backstage passes to a TAFKAL80ETC concert, 9, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 50
-Conjured, 9, 83
+Conjured demon holding vessel, 9, 83
 
 
 Day 3
@@ -34,7 +34,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 13, 22
 Backstage passes to a TAFKAL80ETC concert, 8, 50
 Backstage passes to a TAFKAL80ETC concert, 3, 50
-Conjured, 8, 81
+Conjured demon holding vessel, 8, 81
 
 
 Day 4
@@ -47,7 +47,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 12, 23
 Backstage passes to a TAFKAL80ETC concert, 7, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 50
-Conjured, 7, 79
+Conjured demon holding vessel, 7, 79
 
 
 Day 5
@@ -60,7 +60,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 11, 24
 Backstage passes to a TAFKAL80ETC concert, 6, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 50
-Conjured, 6, 77
+Conjured demon holding vessel, 6, 77
 
 
 Day 6
@@ -73,7 +73,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 10, 25
 Backstage passes to a TAFKAL80ETC concert, 5, 50
 Backstage passes to a TAFKAL80ETC concert, 0, 50
-Conjured, 5, 75
+Conjured demon holding vessel, 5, 75
 
 
 Day 7
@@ -86,7 +86,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 9, 27
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, -1, 0
-Conjured, 4, 73
+Conjured demon holding vessel, 4, 73
 
 
 Day 8
@@ -99,7 +99,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 8, 29
 Backstage passes to a TAFKAL80ETC concert, 3, 50
 Backstage passes to a TAFKAL80ETC concert, -2, 0
-Conjured, 3, 71
+Conjured demon holding vessel, 3, 71
 
 
 Day 9
@@ -112,7 +112,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 7, 31
 Backstage passes to a TAFKAL80ETC concert, 2, 50
 Backstage passes to a TAFKAL80ETC concert, -3, 0
-Conjured, 2, 69
+Conjured demon holding vessel, 2, 69
 
 
 Day 10
@@ -125,7 +125,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 6, 33
 Backstage passes to a TAFKAL80ETC concert, 1, 50
 Backstage passes to a TAFKAL80ETC concert, -4, 0
-Conjured, 1, 67
+Conjured demon holding vessel, 1, 67
 
 
 Day 11
@@ -138,7 +138,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 5, 35
 Backstage passes to a TAFKAL80ETC concert, 0, 50
 Backstage passes to a TAFKAL80ETC concert, -5, 0
-Conjured, 0, 65
+Conjured demon holding vessel, 0, 65
 
 
 Day 12
@@ -151,7 +151,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 4, 38
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
-Conjured, -1, 63
+Conjured demon holding vessel, -1, 63
 
 
 Day 13
@@ -164,7 +164,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 3, 41
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
-Conjured, -2, 61
+Conjured demon holding vessel, -2, 61
 
 
 Day 14
@@ -177,7 +177,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 2, 44
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
-Conjured, -3, 59
+Conjured demon holding vessel, -3, 59
 
 
 Day 15
@@ -190,7 +190,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 1, 47
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
-Conjured, -4, 57
+Conjured demon holding vessel, -4, 57
 
 
 Day 16
@@ -203,7 +203,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 0, 50
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
-Conjured, -5, 55
+Conjured demon holding vessel, -5, 55
 
 
 Day 17
@@ -216,7 +216,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
-Conjured, -6, 53
+Conjured demon holding vessel, -6, 53
 
 
 Day 18
@@ -229,7 +229,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
-Conjured, -7, 51
+Conjured demon holding vessel, -7, 51
 
 
 Day 19
@@ -242,7 +242,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
-Conjured, -8, 49
+Conjured demon holding vessel, -8, 49
 
 
 Day 20
@@ -255,7 +255,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
-Conjured, -9, 47
+Conjured demon holding vessel, -9, 47
 
 
 Day 21
@@ -268,7 +268,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
-Conjured, -10, 45
+Conjured demon holding vessel, -10, 45
 
 
 Day 22
@@ -281,7 +281,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -16, 0
-Conjured, -11, 43
+Conjured demon holding vessel, -11, 43
 
 
 Day 23
@@ -294,7 +294,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -17, 0
-Conjured, -12, 41
+Conjured demon holding vessel, -12, 41
 
 
 Day 24
@@ -307,7 +307,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -18, 0
-Conjured, -13, 39
+Conjured demon holding vessel, -13, 39
 
 
 Day 25
@@ -320,7 +320,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -19, 0
-Conjured, -14, 37
+Conjured demon holding vessel, -14, 37
 
 
 Day 26
@@ -333,7 +333,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
 Backstage passes to a TAFKAL80ETC concert, -20, 0
-Conjured, -15, 35
+Conjured demon holding vessel, -15, 35
 
 
 Day 27
@@ -346,7 +346,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -16, 0
 Backstage passes to a TAFKAL80ETC concert, -21, 0
-Conjured, -16, 33
+Conjured demon holding vessel, -16, 33
 
 
 Day 28
@@ -359,7 +359,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -17, 0
 Backstage passes to a TAFKAL80ETC concert, -22, 0
-Conjured, -17, 31
+Conjured demon holding vessel, -17, 31
 
 
 Day 29
@@ -372,6 +372,6 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -18, 0
 Backstage passes to a TAFKAL80ETC concert, -23, 0
-Conjured, -18, 29
+Conjured demon holding vessel, -18, 29
 
 

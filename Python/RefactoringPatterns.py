@@ -25,14 +25,14 @@ class RefactoringExamples(object):
             self.result = 4
 
     # Switching the order of conditions can help find common code
-    def swithced_conditions_example_1(self):
+    def switched_conditions_example_1(self):
         if self.field:
             if self.other_field:
                 self.result = 4
         else:
             self.result = 6
 
-    def swithced_conditions_example_2(self):
+    def switched_conditions_example_2(self):
         if self.other_field:
             if self.field:
                 self.result = 4

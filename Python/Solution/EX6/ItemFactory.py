@@ -11,5 +11,5 @@ def get_item_by_name(item):
             return DexterityOrElixir(item)
         case "Sulfuras, Hand of Ragnaros":
             return Sulfuras(item)
-        case "Conjured":
+        case _ if "Conjured" in item.name:
             return Conjured(item)

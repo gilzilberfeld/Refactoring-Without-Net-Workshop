@@ -35,5 +35,17 @@ class GildedRoseApprovals(unittest.TestCase):
         log += print_items()
         verify(log)
 
+    def test_update_quality_30_days(self):
+        shop = GildedRose(items)
+        log = ""
+
+        for day in range(1, 30):
+            log += "Day " + str(day) + "\n"
+            log += print_items()
+            shop.update_quality()
+            log += "\n"
+
+        verify(log)
+
 if __name__ == '__main__':
     unittest.main()
