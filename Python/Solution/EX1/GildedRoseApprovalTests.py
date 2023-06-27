@@ -2,8 +2,8 @@ import unittest
 
 from approvaltests.approvals import verify
 
-from GildedRoseExercise.GildedRose import GildedRose
 from GildedRoseExercise.Dependencies.Item import Item
+from Solution.EX1.GildedRose import GildedRose
 
 items = [
     Item(name="+5 Dexterity Vest", sell_in=10, quality=20),
